@@ -6,7 +6,7 @@ It is important to allow students to practice accounting for the work they are d
 
 It also reinforces the important idea that how you solve problems is at least as important to learning as whether you solved them at all (or even got the right answer). Programming is a process of patient problem-solving, and finding ways to value, acknowledge, and reward the problem-solving process is an important part of assessment.
 
-![Ideas](/static/courses/csintro/miniproject/ideas.png)
+![Problem-Solving Process](/static/courses/csintro/miniproject/problem-solving.png)
 
 ## Lesson plan
 
