@@ -200,7 +200,7 @@
         "yottaTarget": "bbc-microbit-classic-gcc",
         "yottaCorePackage": "microbit",
         "githubCorePackage": "microbit-sam/microbit",
-        "gittag": "pf_v0.2.3",
+        "gittag": "pf_v0.3.3.3",
         "serviceId": "microbit"
     },
     "serial": {
